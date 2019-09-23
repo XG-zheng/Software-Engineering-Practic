@@ -1,0 +1,5 @@
+﻿  Sudoku.cpp
+c:\users\kc\source\repos\sudoku\sudoku\sudoku.cpp(22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\kc\source\repos\sudoku\sudoku\sudoku.cpp(23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\kc\source\repos\sudoku\sudoku\sudoku.cpp(112): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Sudoku.vcxproj -> C:\Users\KC\source\repos\Sudoku\Debug\Sudoku.exe
